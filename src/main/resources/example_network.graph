@@ -1,0 +1,13 @@
+	  GOOGLE FACEBOOK APPLE MICROSOFT QUALOGY OPENAI STARLINK SPACEX NASA ESA TESLA TWITTER
+GOOGLE    0 	 1        1     1         0       1      0        0      0    0   0     0
+FACEBOOK  1 	 1        1     0         0       1      0        0      0    0   0     1
+APPLE 	  1 	 0        1     0         0       1      0        0      0    0   0     1
+MICROSOFT 1 	 0        1     0         0       1      0        0      0    0   0     0
+QUALOGY   1 	 0        0     0         0       1      0        0      0    0   0     0
+OPENAI    1 	 0        1     1         0       1      0        0      0    0   0     0
+STARLINK  1 	 1        0     0         0       1      0        0      0    0   0     0
+SPACEX    1 	 1        1     1         0       1      0        0      0    0   0     0
+NASA 	  1 	 0        1     1         0       0      0        0      0    0   0     0
+ESA 	  1 	 0        1     0         0       1      0        0      0    0   0     0
+TESLA 	  1 	 0        1     0         0       1      0        0      0    0   0     0
+TWITTER   1 	 0        1     0         0       0      0        0      0    0   0     0
